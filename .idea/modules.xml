@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aipm.iml" filepath="$PROJECT_DIR$/aipm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecoosteam.pmg/ecoosteam.pmg.iml" filepath="$PROJECT_DIR$/ecoosteam.pmg/ecoosteam.pmg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecoosteam.ymg/ecoosteam.ymg.iml" filepath="$PROJECT_DIR$/ecoosteam.ymg/ecoosteam.ymg.iml" />
+    </modules>
+  </component>
+</project>

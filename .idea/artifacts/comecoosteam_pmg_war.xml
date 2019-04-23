@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="comecoosteam.pmg:war">
+    <output-path>$PROJECT_DIR$/comecoosteam.pmg/target</output-path>
+    <root id="archive" name="com.ecoosteam.pmg.war">
+      <element id="artifact" artifact-name="comecoosteam.pmg:war exploded" />
+    </root>
+  </artifact>
+</component>

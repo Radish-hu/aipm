@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ecoosteam.ymg:war">
+    <output-path>$PROJECT_DIR$/ecoosteam.ymg/target</output-path>
+    <root id="archive" name="com.ecoosteam.ymg.war">
+      <element id="artifact" artifact-name="ecoosteam.ymg:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="aipm:war exploded">
+    <output-path>$PROJECT_DIR$/target/aipm</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="aipm" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/aipm/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="aipm/web/Web" />
+    </root>
+  </artifact>
+</component>
